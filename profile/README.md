@@ -1,0 +1,1 @@
+This github organization contains an export of a project that is used for learning, testing and experimenting. The code found in the repositories can change frequently and no history is tracked. The code is as-is. No service or support will be provided. 
